@@ -1,4 +1,5 @@
 /* global window */
+import '@hotwired/turbo-rails'
 import './jQueryGlobalizer.js'
 import 'bootstrap'
 import 'bootstrap-select'
