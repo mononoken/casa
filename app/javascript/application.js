@@ -1,5 +1,6 @@
 /* global window */
 import '@hotwired/turbo-rails'
+Turbo.session.drive = false
 import './jQueryGlobalizer.js'
 import 'bootstrap'
 import 'bootstrap-select'
